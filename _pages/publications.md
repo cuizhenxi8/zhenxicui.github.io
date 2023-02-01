@@ -22,11 +22,10 @@ You can also find my articles on [my orcid profile](https://orcid.org/0000-0003-
 Please email me if you require a copy of the paper.
  
 1. **Cui, Z.**, Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives
-Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-
-5388.
+Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.
 
 2. **Cui, Z.**, J. Chen, X. Xu, and H. K. Chu. “Cooperative Manipulation of Soft Objects with Formation Preservation
-Based on Dynamic Movement Primitives”, IEEE Robotics and Automation Letters (RA-L). (under review)
+Based on Dynamic Movement Primitives”, IEEE Robotics and Automation Letters (RA-L). (Under Review)
 
 3. **Cui, Z.**, Huang, K., Lu, B., & Chu, H. K. (2020, October). Automated Folding of a Deformable Thin Object
 through Robot Manipulators. In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
