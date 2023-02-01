@@ -15,11 +15,11 @@ main:
 #   - title: "About me"
 #     url: /cv/
     
-  - title: "Research"
-    url: /cv/
-    
-   - title: "Publications"
-    url: /publications/
+    - title: "Research"
+      url: /cv/
+
+    - title: "Publications"
+      url: /publications/
     
 #   - title: "Guide"
 #     url: /markdown/
