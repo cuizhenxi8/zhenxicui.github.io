@@ -14,7 +14,7 @@ Recently, I am working on a ViTac: Visual-Tactile Synergy for Handling Flexible 
 
 I received my Ph.D. degree in Mechanical Engineering at The Hong Kong Polytechnic University in 2022 under the guidance of [Dr. Henry K. Chu](https://henrychulab.github.io/) and [Prof. Li Cheng](https://www.polyu.edu.hk/researchgrp/chengli/). I was a Visiting Scholar at the Department of Electrical and Computer Engineering, SIT,USA from 2020 to 2022. [Prof. YI GUO](https://personal.stevens.edu/~yguo1/)
 
-#Contact
+##Contact
 Email: zhenxi.cui at kcl.ac.uk
 
 
