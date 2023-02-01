@@ -1,17 +1,17 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Teaching Assistant"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Editorial Assistant
+<!-- ## Editorial Assistant
 
-IEEE Robotics & Automation Magazine (RAM)  Jan. 2021-Dec. 2021
+IEEE Robotics & Automation Magazine (RAM)  Jan. 2021-Dec. 2021 -->
 
-## Teaching Assistant
+<!-- ## Teaching Assistant -->
 
 • **Advanced environmental and Transportation noise control** (ME559) Sep.2020-Jan. 2021
 
