@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow in the Dr. Shan Luo's Lab at the Department of Engineering, King's College London(KCL). My research interests include robot manipulation planning and control, robot perception, reinforcement learning with a specific focus on soft/deformaable objects manipulation.
+I am currently a Postdoctoral Fellow in the [Dr. Shan Luo](https://shanluo.github.io/)'s Lab at the Department of Engineering, King's College London(KCL). My research interests include robot manipulation planning and control, robot perception, reinforcement learning with a specific focus on soft/deformaable objects manipulation.
 
 Recently, I am working on a ViTac: Visual-Tactile Synergy for Handling Flexible Materials project funded by Engineering and Physical Sciences Research Council (EPSRC) to develop a new visuo-tactile integration mechanism for handling flexible materials, e.g. cloth and dough. I am also responsible for assisting undergraduate's students/RAs with their projects.
 
