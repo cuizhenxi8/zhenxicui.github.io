@@ -44,5 +44,5 @@ with Robotic nDEP-Tweezers. IEEE Transactions on Automation Science and Engineer
 7. Huang, K., Ajamieh, I. A., **Cui, Z.**, Lai, J., Mills, J. K., & Chu, H. K. (2020). Automated embryo manipulation
 and rotation via robotic nDEP-tweezers. IEEE Transactions on Biomedical Engineering, 68(7), 2152-2163.
 
-8. Zhang, L., Huang, X., **Cui, Z.**. Fatigue loading system of MW wind trubine blade and its adaptive frequency sweep control. Taiyangneng Xuebao/Acta Energiae Solaris Sinica, 35(6), 1070 – 1074
+8. Zhang, L., Huang, X., **Cui, Z.**. Fatigue loading system of MW wind trubine blade and its adaptive frequency sweep control. Taiyangneng Xuebao/Acta Energiae Solaris Sinica, 35(6), 1070 – 1074.
  
