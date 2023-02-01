@@ -22,7 +22,10 @@ main:
       url: /publications/
       
     - title: "Teaching"
-      url: /teaching/    
+      url: /teaching/  
+      
+    - title: "Professional Activities"
+      url: /teaching/   
     
 #   - title: "Guide"
 #     url: /markdown/
