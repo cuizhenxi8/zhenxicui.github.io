@@ -13,17 +13,17 @@ IEEE Robotics & Automation Magazine (RAM)  Jan. 2021-Dec. 2021
 
 ## Teaching Assistant
 
-• Advanced environmental and Transportation noise control (ME559) Sep.2020-Jan. 2021
+• **Advanced environmental and Transportation noise control** (ME559) Sep.2020-Jan. 2021
 
-• Vibrations and structure-borne noise (ME536) Jan. 2020-Jun. 2020
+• **Vibrations and structure-borne noise** (ME536) Jan. 2020-Jun. 2020
 
-• Linear systems and control (ME 31002) Sep.2019-Jan. 2020
+• **Linear systems and control** (ME 31002) Sep.2019-Jan. 2020
 
-• System dynamics (ME 31003) Jan. 2019-Jun. 2019
-
-
+• **System dynamics** (ME 31003) Jan. 2019-Jun. 2019
 
 
+
+<!-- 
 
 ## Locations of key files/directories
 
@@ -217,4 +217,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
