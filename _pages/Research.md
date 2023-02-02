@@ -19,7 +19,22 @@ Solarized dark               | Solarized Ocean
 ![sss](/images/500x300.png)| htht dddddddddddddddddd
 
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
 
+| Column One    | Column Two    |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+| data cell one | data cell two |    
 
 
 <!-- 
