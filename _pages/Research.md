@@ -14,7 +14,7 @@ The aim of our research group is to develop robots that can interact with the ph
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![sssa](/nathan.png)  |  ![sss](/nathan.png)
+![sssa](/images/500x300.png)  |  ![sss](/images/500x300.png)
 
 
 
