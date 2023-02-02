@@ -1,10 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-
 | Time         | Length        | Speed              | Mass         |
 | ------------ | ------------- | ------------------ | ------------ |
 | -Millisecond | Millimetre    | Kilometre per hour | Milligram    |
