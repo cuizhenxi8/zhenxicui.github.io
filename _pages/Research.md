@@ -9,7 +9,7 @@ redirect_from:
 The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.
 
 
-Solarized dark               Solarized Ocean
+Solarized dark               | Solarized Ocean
 :-------------------------:|:-------------------------:
 ![sssa](/images/500x300.png)  |  ![sss](/images/500x300.png)
 
