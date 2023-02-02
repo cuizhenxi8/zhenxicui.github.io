@@ -7,12 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-<!-- ## Editorial Assistant
-
-IEEE Robotics & Automation Magazine (RAM)  Jan. 2021-Dec. 2021 -->
-
-<!-- ## Teaching Assistant -->
-
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 
 
 
