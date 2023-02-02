@@ -9,7 +9,7 @@ redirect_from:
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![sssa](/me.png)  |  ![sss](/me.png)
+![sssa](/nathan.png)  |  ![sss](/nathan.png)
 
 
 
