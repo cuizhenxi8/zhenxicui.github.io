@@ -1,14 +1,11 @@
 ---
-permalink: /markdown/
-title: "Teaching Assistant"
+permalink: /Research/
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-## Research
-
 The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.
 
 
