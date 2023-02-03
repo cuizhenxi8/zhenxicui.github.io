@@ -11,16 +11,8 @@ The aim of our research group is to develop robots that can interact with the ph
 ![sss](/images/500x300.png)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.
 --|--
 ![sss](/images/500x300.png)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.
-![sss](/images/500x300.png)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.
+![sss](/images/500x300.png)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.<br />ddddddaa
 
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
 
 
 <!-- 
