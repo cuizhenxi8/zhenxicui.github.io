@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-<style>
+<!-- <style>
 table {
     border-collapse: collapse;
 }
@@ -17,6 +17,12 @@ table, th, td {
 blockquote {
     border-left: solid blue;
     padding-left: 10px;
+}
+</style> -->
+
+<style>
+td, th {
+   border: none!important;
 }
 </style>
 
