@@ -7,24 +7,24 @@ redirect_from:
   - /markdown.html
 ---
 
-<!-- <style>
+<style>
 table {
     border-collapse: collapse;
 }
 table, th, td {
-   border: 1px solid black;
+   border: 0px solid black;
 }
 blockquote {
     border-left: solid blue;
     padding-left: 10px;
 }
-</style> -->
+</style>
 
-<style>
+<!-- <style>
 td, th {
    border: none!important;
 }
-</style>
+</style> -->
 
 The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.
 
