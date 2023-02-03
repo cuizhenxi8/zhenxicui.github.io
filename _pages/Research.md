@@ -21,8 +21,6 @@ The aim of our research group is to develop robots that can interact with the ph
 |-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
 
 
 <!-- 
