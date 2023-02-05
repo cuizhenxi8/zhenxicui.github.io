@@ -28,10 +28,10 @@ td, th {
 
 The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.
 
-### **soft object manipulation  based on the tactile and visual sensing**
+<!-- ### **soft object manipulation  based on the tactile and visual sensing**
 
 --|--
-![sss](/images/UR5.gif)| dd
+![sss](/images/UR5.gif)| dd -->
 
 
 ### **Multiple Dynamic Movement Primitives Coupled Generalization**
