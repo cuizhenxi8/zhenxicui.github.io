@@ -7,6 +7,15 @@ redirect_from:
   - /markdown.html
 ---
 
+
+## Project Experience
+
+ViTac: Visual-Tactile Synergy for Handling Flexible Materials (British Research grants in Engineering and Physical Sciences Research Council (EPSRC),Participant, Total Research Funding: £311,503),2021 ~ 2024.
+
+Design of a parallel continuum robot with vision sensors for force-related task execution (Research Grant Council of the Hong Kong Special Administrative Region, Participant, Total Research Funding:HK$ 815,601),2021 ~ 2024.
+
+
+
 ## Editorial Assistant
 
 IEEE Robotics & Automation Magazine (RAM) Jan. 2021-Dec. 2021
