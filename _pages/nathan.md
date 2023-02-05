@@ -16,7 +16,7 @@ Design of a parallel continuum robot with vision sensors for force-related task 
 
 
 
-## Editorial Assistant
+## Journal Editorial Assistant
 
 IEEE Robotics & Automation Magazine (RAM) Jan. 2021-Dec. 2021
 
