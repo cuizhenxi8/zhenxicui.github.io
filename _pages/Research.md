@@ -31,31 +31,36 @@ The aim of our research group is to develop robots that can interact with the ph
 ### **soft object manipulation  based on the tactile and visual sensing**
 
 --|--
-![sss](/images/UR5.gif)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.
+![sss](/images/UR5.gif)| dd
+
+
+### **Multiple Dynamic Movement Primitives Coupled Generalization**
+
+--|--
+![sss](/images/UR5.gif)| Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 
 
 ### **Motion planning and control on the soft object manipulation**
 
 --|--
-![sss](/images/ur3.gif)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.
+![sss](/images/ur3.gif)| Cooperative Manipulation of Soft Objects with Formation Preservation Based on Dynamic Movement Primitives.
 
-
-### **Human robot interaction** 
-
---|--
-![sss](/images/ezgif.com-gif-maker.gif)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.<br />ddddddaa
-
-
-<!-- ### **Acquiring depth information in a distorted environment** 
+### **Human robot cooperatively soft manipulation** 
 
 --|--
-![sss](/images/aim.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
+![sss](/images/ezgif.com-gif-maker.gif)| Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 
 
-### **Human robot interaction** 
+### **Optimization based deformable object manipulation** 
 
 --|--
-![sss](/images/IROS2.gif)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.<br />ddddddaa
+![sss](/images/IROS2.gif)| Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, the
+task of folding a deformable thin object can be reformulated as a convex optimization problem.
 
+
+### **Acquiring depth information in a distorted environment** 
+
+--|--
+![sss](/images/aim.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
 
 
