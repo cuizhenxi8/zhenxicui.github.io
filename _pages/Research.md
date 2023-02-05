@@ -28,11 +28,6 @@ td, th {
 
 The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.
 
-<!-- ### **soft object manipulation  based on the tactile and visual sensing**
-
---|--
-![sss](/images/UR5.gif)| dd -->
-
 
 ### **Multiple Dynamic Movement Primitives Coupled Generalization**
 
@@ -44,6 +39,7 @@ The aim of our research group is to develop robots that can interact with the ph
 
 --|--
 ![sss](/images/ur3.gif)| Cooperative Manipulation of Soft Objects with Formation Preservation Based on Dynamic Movement Primitives.
+
 
 ### **Human robot cooperatively soft manipulation** 
 
@@ -58,9 +54,9 @@ The aim of our research group is to develop robots that can interact with the ph
 task of folding a deformable thin object can be reformulated as a convex optimization problem.
 
 
-### **Acquiring depth information in a distorted environment** 
+<!-- ### **Acquiring depth information in a distorted environment** 
 
 --|--
-![sss](/images/aim.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+![sss](/images/aim.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
 
 
