@@ -20,11 +20,15 @@ blockquote {
 }
 </style>
 
-<!-- <style>
-td, th {
-   border: none!important;
+<style>
+table th:first-of-type {
+    width: 60%;
 }
-</style> -->
+table th:nth-of-type(2) {
+    width: 40%;
+}
+</style>
+
 
 The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.
 
