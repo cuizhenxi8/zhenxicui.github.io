@@ -52,5 +52,10 @@ The aim of our research group is to develop robots that can interact with the ph
 ![sss](/images/aim.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
 
 
+### **Human robot interaction** 
+
+--|--
+![sss](/images/IROS.gif)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.<br />ddddddaa
+
 
 
