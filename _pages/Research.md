@@ -55,7 +55,7 @@ The aim of our research group is to develop robots that can interact with the ph
 ### **Human robot interaction** 
 
 --|--
-![sss](/images/IROS.gif)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.<br />ddddddaa
+![sss](/images/IROS2.gif)| Cui, Z., Ma, W., Lai, J., Chu, H. K., & Guo, Y. (2022). Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation. IEEE Robotics and Automation Letters (RA-L), 7(2), 5381-5388.<br />ddddddaa
 
 
 
