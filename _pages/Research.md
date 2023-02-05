@@ -50,12 +50,12 @@ The aim of our research group is to develop robots that can interact with the ph
 ### **Optimization based deformable object manipulation** 
 
 --|--
-![sss](/images/IROS2.gif)| Automated Folding of a Deformable Thin Object through Robot Manipulators. <br /> By using the Levenberg–Marquardt algorithm, the task of folding a deformable thin object can be reformulated as a convex optimization problem.
+![sss](/images/IROS2.gif)| Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, the task of folding a deformable thin object can be reformulated as a convex optimization problem.
 
 
-<!-- ### **Acquiring depth information in a distorted environment** 
+### **Acquiring depth information in a distorted environment** 
 
 --|--
-![sss](/images/aim.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
+![sss](/images/aim.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
 
 
