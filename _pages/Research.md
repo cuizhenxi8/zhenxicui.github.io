@@ -20,14 +20,14 @@ blockquote {
 }
 </style>
 
-<style>
+<!-- <style>
 table th:first-of-type {
     width: 60%;
 }
 table th:nth-of-type(2) {
     width: 40%;
 }
-</style>
+</style> -->
 
 
 The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.
@@ -36,25 +36,25 @@ The aim of our research group is to develop robots that can interact with the ph
 ### **Multiple Dynamic Movement Primitives Coupled Generalization**
 
 --|--
-![sss](/images/UR5.gif)| Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
+![sss](/images/UR5.gif){width=600px}| Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 
 
 ### **Motion planning and control on the soft object manipulation**
 
 --|--
-![sss](/images/ur3.gif)| Cooperative Manipulation of Soft Objects with Formation Preservation Based on Dynamic Movement Primitives.
+![sss](/images/ur3.gif){width=600px}| Cooperative Manipulation of Soft Objects with Formation Preservation Based on Dynamic Movement Primitives.
 
 
 ### **Human robot cooperatively soft manipulation** 
 
 --|--
-![sss](/images/ezgif.com-gif-maker.gif)| Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
+![sss](/images/ezgif.com-gif-maker.gif){width=600px}| Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 
 
 ### **Optimization based deformable object manipulation** 
 
 --|--
-![sss](/images/IROS2.gif)| Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, 
+![sss](/images/IROS2.gif){width=600px}| Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, 
 
 
 <!-- the task of folding a deformable thin object can be reformulated as a convex optimization problem. -->
@@ -63,6 +63,6 @@ The aim of our research group is to develop robots that can interact with the ph
 ### **Acquiring depth information in a distorted environment** 
 
 --|--
-![sss](/images/aim2.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+![sss](/images/aim2.png){width=600px}| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
 
 
