@@ -56,6 +56,6 @@ The aim of our research group is to develop robots that can interact with the ph
 ### **Acquiring depth information in a distorted environment** 
 
 --|--
-![sss](/images/aim.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+![sss](/images/aim2.png)| The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
 
 
