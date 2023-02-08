@@ -18,6 +18,7 @@ D.F. Gomes, Z. Lin, **S. Luo**. IEEE/RSJ International Conference on Intelligent
 Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 
 
+
 <br />
 <br />
 # **Motion planning and control on the soft object manipulation**
@@ -28,11 +29,21 @@ D.F. Gomes, Z. Lin, **S. Luo**. Frontiers in Robotics and AI 7, 541661, 2020. <b
 Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 
 
+
 <br />
 <br />
 # **Human robot cooperatively soft manipulation**
-<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="...">
+<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="...">
+Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
+
+
+
+<br />
+<br />
+# **Optimization based deformable object manipulation**
+<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/aim2.gif" alt="...">
 Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, the task of folding a deformable thin object can be reformulated as a convex optimization problem.
+
 
 
 <br />
