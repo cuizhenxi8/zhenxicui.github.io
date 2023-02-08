@@ -49,12 +49,12 @@ table {
 ## **Optimization based deformable object manipulation**
 
 :---|:--
-<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="...">|Folding a deformable thin object with the patterns aligned.
+<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="..."><br />Folding a deformable thin object with the patterns aligned.|Folding a deformable thin object with the patterns aligned.
 
 ## **Acquiring depth information in a distorted environment**
 
 :---|:--
-<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="..."><br />The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
 
 
 
