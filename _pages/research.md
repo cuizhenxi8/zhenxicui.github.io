@@ -6,6 +6,11 @@ author_profile: true
 toc: true
 ---
 
+<!-- The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.  -->
+
+<!-- {% include toc %} -->
+
+
 <style>
 table {
     border-collapse: collapse;
@@ -20,25 +25,38 @@ blockquote {
 </style>
 
 
-### **Multiple Dynamic Movement Primitives Coupled Generalization**
+## **Multiple Dynamic Movement Primitives Coupled Generalization**
 
 ---|--
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> | Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 
 
-### **Multiple Dynamic Movement Primitives Coupled Generalization**
+## **Motion planning and control on the soft object manipulation**
 
 ---|--
-<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> | Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> | Transporting soft objects while preserving formation uses dynamic movement primitives.
+
+
+## **Human robot cooperatively soft manipulation**
+
+---|--
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="...">|Drive the soft robot into the desired configuration with the collaboration of human and robots.
+
+
+## **Optimization based deformable object manipulation**
+
+---|--
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="...">|Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, the task of folding a deformable thin object can be reformulated as a convex optimization problem.
+
+
+## **Acquiring depth information in a distorted environment**
+
+---|--
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
 
 
 
-
-<!-- The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.  -->
-
-<!-- {% include toc %} -->
-
-# **Multiple dynamic movement primitives coupled generalization**
+<!-- # **Multiple dynamic movement primitives coupled generalization**
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 <br />
 <br />
@@ -69,4 +87,4 @@ blockquote {
 <br />
 <br />
 # **Acquiring depth information in a distorted environment**
-<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="..."> The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="..."> The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
