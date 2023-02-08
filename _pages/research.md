@@ -6,6 +6,27 @@ author_profile: true
 toc: true
 ---
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 0px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
+-|-
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
+
+
+
+
+
 <!-- The aim of our research group is to develop robots that can interact with the physical world safely and robustly. We leverage high-resolution tactile sensing, visual understanding of objects in the scenes and robot learning to enable the robots to have such desirable capabilities.  -->
 
 <!-- {% include toc %} -->
