@@ -19,10 +19,12 @@ toc: true
 <br />
 <br />
 <br />
+<br />
 # **Motion planning and control on the soft object manipulation**
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> Transporting soft objects while preserving formation uses dynamic movement primitives.
 
 
+<br />
 <br />
 <br />
 <br />
@@ -35,11 +37,13 @@ toc: true
 <br />
 <br />
 <br />
+<br />
 # **Optimization based deformable object manipulation**
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="..."> Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, the task of folding a deformable thin object can be reformulated as a convex optimization problem.
 
 
 
+<br />
 <br />
 <br />
 <br />
