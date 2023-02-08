@@ -11,7 +11,7 @@ toc: true
 <!-- {% include toc %} -->
 
 
-<!-- <style>
+<style>
 table {
     border-collapse: collapse;
 }
@@ -53,11 +53,11 @@ table {
 ## **Acquiring depth information in a distorted environment**
 
 :---|:--
-<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
+<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
 
 
 
-# **Multiple dynamic movement primitives coupled generalization**
+<!-- # **Multiple dynamic movement primitives coupled generalization**
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 <!-- <br />
 <br />
@@ -65,8 +65,8 @@ table {
 <br />
 <br />
 <br /> -->
-&nbsp;
-# **Motion planning and control on the soft object manipulation** <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> Transporting soft objects while preserving formation uses dynamic movement primitives.
+# **Motion planning and control on the soft object manipulation** 
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> Transporting soft objects while preserving formation uses dynamic movement primitives.
 <!-- <br />
 <br />
 <br />
@@ -74,8 +74,8 @@ table {
 <br />
 <br />
 <br /> -->
-&nbsp;
-# **Human robot cooperatively soft manipulation** <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="..."> Drive the soft robot into the desired configuration with the collaboration of human and robots.
+# **Human robot cooperatively soft manipulation** 
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="..."> Drive the soft robot into the desired configuration with the collaboration of human and robots.
 <br />
 <br />
 <br />
@@ -88,4 +88,4 @@ table {
 <br />
 <br />
 # **Acquiring depth information in a distorted environment**
-<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="..."> The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="..."> The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
