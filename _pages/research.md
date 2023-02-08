@@ -32,13 +32,13 @@ D.F. Gomes, Z. Lin, **S. Luo**. Frontiers in Robotics and AI 7, 541661, 2020. <b
 
 <br />
 # Simulation of optical tactile sensors
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/images/UR5.gif" alt="...">
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="...">
 Generation of gelsight tactile images for sim2real learning <br />
 D.F. Gomes, P. Paoletti, **S. Luo**. IEEE Robotics and Automation Letters, 6(2), pp.4177-4184. & The International Conference on Robotics and Automation (ICRA) 2021. <br />
 [[paper]](https://arxiv.org/abs/2101.07169) [[website]](https://danfergo.github.io/gelsight-simulation/) [[code]](https://github.com/danfergo/gelsight_simulation)
 <br />
 <br />
-<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/images/UR5.gif" alt="...">
+<img align="left" width="200" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="...">
 Reducing Tactile Sim2Real Domain Gaps via Deep Texture Generation Networks <br />
 T. Jianu, D.F. Gomes, P. Paoletti, **S. Luo**. IEEE International Conference on Robotics and Automation (ICRA) 2022. <br />
 [[paper]](https://arxiv.org/abs/2112.01807) [[website]](https://danfergo.github.io/gelsight-simulation/)
