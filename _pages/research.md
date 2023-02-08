@@ -20,10 +20,12 @@ toc: true
 <br />
 <br />
 <br />
+<br />
 # **Motion planning and control on the soft object manipulation**
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> Transporting soft objects while preserving formation uses dynamic movement primitives.
 
 
+<br />
 <br />
 <br />
 <br />
@@ -34,6 +36,7 @@ toc: true
 
 
 
+<br />
 <br />
 <br />
 <br />
