@@ -57,6 +57,10 @@ table {
 
 
 
+
+
+
+
 <!-- # **Multiple dynamic movement primitives coupled generalization**
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 <!-- <br />
