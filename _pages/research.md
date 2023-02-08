@@ -11,7 +11,7 @@ toc: true
 <!-- {% include toc %} -->
 
 
-<style>
+<!-- <style>
 table {
     border-collapse: collapse;
 }
@@ -26,7 +26,6 @@ table {
   font-size: 15px;
 }
 </style>
-
 
 ## **Multiple Dynamic Movement Primitives Coupled Generalization**
 
@@ -54,13 +53,13 @@ table {
 ## **Acquiring depth information in a distorted environment**
 
 :---|:--
-<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+<img align="left" width="300" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
 
 
 
 <!-- Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, the task of folding a deformable thin object can be reformulated as a convex optimization problem. -->
 
-<!-- # **Multiple dynamic movement primitives coupled generalization**
+# **Multiple dynamic movement primitives coupled generalization**
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 <br />
 <br />
@@ -91,4 +90,4 @@ table {
 <br />
 <br />
 # **Acquiring depth information in a distorted environment**
-<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="..."> The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
+<img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="..."> The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
