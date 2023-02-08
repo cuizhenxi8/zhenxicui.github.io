@@ -57,8 +57,6 @@ table {
 
 
 
-<!-- Automated Folding of a Deformable Thin Object through Robot Manipulators. By using the Levenberg–Marquardt algorithm, the task of folding a deformable thin object can be reformulated as a convex optimization problem. -->
-
 # **Multiple dynamic movement primitives coupled generalization**
 <img align="left" width="400" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> Coupled Multiple Dynamic Movement Primitives Generalization for Deformable Object Manipulation.
 <br />
