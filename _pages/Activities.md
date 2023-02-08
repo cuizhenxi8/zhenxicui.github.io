@@ -1,6 +1,6 @@
 ---
-permalink: /nathan/
-title: "Activities"
+permalink: /Activities/
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
