@@ -24,6 +24,12 @@ blockquote {
 }
 table {
   font-size: 15px;
+} 
+table th:first-of-type {
+    width: 70%;
+}
+table th:nth-of-type(2) {
+width: 30%;
 }
 </style>
 
