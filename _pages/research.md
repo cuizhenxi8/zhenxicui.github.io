@@ -27,7 +27,7 @@ table {
 } 
 </style>
 
-## **Multiple Dynamic Movement Primitives Coupled Generalization**
+<!-- ## **Multiple Dynamic Movement Primitives Coupled Generalization**
 
 |:---|--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |Coupled movement primitives trajectory planning for manipulating deformable objects.
@@ -50,7 +50,35 @@ table {
 ## **Acquiring depth information in a distorted environment**
 
 |:---|--|
-<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
 
 
+## **Coupled movement primitives trajectory planning for manipulating deformable objects**
+
+|:---|--|
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |
+
+
+## **Transporting soft objects while preserving formation configuration utilizing dynamic movement primitives**
+
+|:---|--|
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> |
+
+
+## **Drive the soft robot into the desired configuration with the collaboration of human and robots**
+
+|:---|--|
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="...">|
+
+
+## **Folding a deformable thin fim with the patterns aligned based on the convex optimization method**
+
+|:---|--|
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="...">|
+
+
+## **The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip**
+
+|:---|--|
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|
 
