@@ -27,7 +27,7 @@ table {
 } 
 </style>
 
-## **Multiple Dynamic Movement Primitives Coupled Generalization**
+<!-- ## **Multiple Dynamic Movement Primitives Coupled Generalization**
 
 |:---|:--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |Coupled movement primitives trajectory planning for manipulating deformable objects.
@@ -50,5 +50,30 @@ table {
 ## **Acquiring depth information in a distorted environment**
 
 :---|:--
-<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
+
+## **Multiple Dynamic Movement Primitives Coupled Generalization**
+
+|:---|:--|
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |Coupled movement primitives trajectory planning for manipulating deformable objects.
+
+## **Motion planning and control on the soft object transportation**
+
+|:---|:--|
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> |Coupled movement primitives trajectory planning for manipulating deformable objects.
+
+## **Human robot cooperatively soft manipulation**
+
+:---|:--
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="...">|Coupled movement primitives trajectory planning for manipulating deformable objects.
+
+## **Optimization based deformable object manipulation**
+
+:---|:--
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="...">|Coupled movement primitives trajectory planning for manipulating deformable objects.
+
+## **Acquiring depth information in a distorted environment**
+
+:---|:--
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|Coupled movement primitives trajectory planning for manipulating deformable objects.
 
