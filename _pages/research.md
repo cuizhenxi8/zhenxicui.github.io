@@ -25,21 +25,15 @@ blockquote {
 table {
   font-size: 15px;
 } 
-table th:first-of-type {
-    width: 70%;
-}
-table th:nth-of-type(2) {
-width: 30%;
-}
 </style>
 
 ## **Multiple Dynamic Movement Primitives Coupled Generalization**
-
+| <div style="width:400px">property</div> | description                           |
 :---|:--
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |Coupled movement primitives trajectory planning for manipulating deformable objects.
 
 ## **Motion planning and control on the soft object transportation**
-
+| <div style="width:400px">property</div> | description                           |
 :---|:--
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> |Transporting soft objects while preserving formation configuration utilizing dynamic movement primitives.
 
