@@ -29,12 +29,14 @@ table {
 
 ## **Multiple Dynamic Movement Primitives Coupled Generalization**
 
-:---|:--
+| <div style="width:420px">property</div> | description                           |
+|:---|:--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |Coupled movement primitives trajectory planning for manipulating deformable objects.
 
 ## **Motion planning and control on the soft object transportation**
 
-:---|:--
+| <div style="width:420px">property</div> | description                           |
+|:---|:--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> |Transporting soft objects while preserving formation configuration utilizing dynamic movement primitives.
 
 ## **Human robot cooperatively soft manipulation**
