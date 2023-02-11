@@ -25,22 +25,24 @@ blockquote {
 table {
   font-size: 15px;
 } 
+table-layout: auto;
+width: 100%;
 </style>
 
 ## **Multiple Dynamic Movement Primitives Coupled Generalization**
 
 |:---|:--|
-<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |Coupled movement primitives trajectory<br /> planning for manipulating deformable objects.
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |Coupled movement primitives trajectory planning for manipulating deformable objects.
 
 ## **Motion planning and control on the soft object transportation**
 
 |:---|:--|
-<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> |Transporting soft objects while preserving<br /> formation configuration utilizing dynamic movement primitives.
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> |Transporting soft objects while preserving formation configuration utilizing dynamic movement primitives.
 
 ## **Human robot cooperatively soft manipulation**
 
 :---|:--
-<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="...">|Drive the soft robot into the<br /> desired configuration with the collaboration of human and robots.
+<img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="...">|Drive the soft robot into the desired configuration with the collaboration of human and robots.
 
 ## **Optimization based deformable object manipulation**
 
