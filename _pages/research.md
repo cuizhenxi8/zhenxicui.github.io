@@ -29,28 +29,31 @@ table {
 
 ## **Multiple Dynamic Movement Primitives Coupled Generalization**
 
-:--|:--
+:---|:--
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> | Coupled multiple dynamic movement primitives generalization for deformable object manipulation.
-
 
 ## **Motion planning and control on the soft object transportation**
 
-:--|:--
+:---|:--
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> | Transporting soft objects while preserving formation uses dynamic movement primitives.
-
 
 ## **Human robot cooperatively soft manipulation**
 
-:--|:--
+:---|:--
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="...">|Drive the soft robot into the desired configuration with the collaboration of human and robots.
-
 
 ## **Optimization based deformable object manipulation**
 
-:--|:--
+:---|:--
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="...">|Folding a deformable thin fim with the patterns aligned based on the convex optimization method.
 
 ## **Acquiring depth information in a distorted environment**
 
-:--|:--
+:---|:--
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip.
+
+
+
+
+
+
