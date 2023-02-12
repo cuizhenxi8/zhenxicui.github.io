@@ -1,5 +1,5 @@
 ---
-permalink: /Research/
+permalink: /Research_COPY/
 title: "Research"
 author_profile: true
 redirect_from: 
