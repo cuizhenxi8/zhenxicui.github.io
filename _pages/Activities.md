@@ -36,7 +36,11 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019
 
 ## Award
 
-RoboCup competition (Humanoid Biped Group) first prizes on Aug. 2011, Oct. 2012, and Oct. 2013, respectively
+China Robot Competition and the RoboCup China (Humanoid Biped Group) first prizes on Aug. 2011.
+
+China Robot Competition and the RoboCup China (Humanoid Biped Group) first prizes on Oct. 2012.
+
+China Robot Competition and the RoboCup China (Humanoid Biped Group) first prizes on Oct. 2013.
 
 National mechanical and electrical products competition second prize on Aug. 2013
 
