@@ -58,31 +58,31 @@ table {
 |:---|--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ropefollow.gif" alt="..."> |
 
-## **Coupled movement primitives trajectory planning for manipulating deformable objects**
+## **Dynamic Coordination of Dynamic Movement Primitives (DMP): A Trajectory Planning Approach for Deformable Object Manipulation**
 
 |:---|--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/UR5.gif" alt="..."> |
 
 
-## **Transporting soft objects while preserving formation configuration utilizing dynamic movement primitives**
+## **Dynamic Movement Primitives (DMP) for Maintaining Formation Integrity during Soft Object Transportation**
 
 |:---|--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ur3.gif" alt="..."> |
 
 
-## **Drive the soft robot into the desired configuration with the collaboration of human and robots**
+## **Synergistic Human-Robot Collaboration for Achieving Desired Soft Robot Configurations**
 
 |:---|--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ezgif.com-gif-maker.gif" alt="...">|
 
 
-## **Folding a deformable thin fim with the patterns aligned based on the convex optimization method**
+## **Enhancing Deformable Thin Film Folding Through Convex Pattern Optimization**
 
 |:---|--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/IROS2.gif" alt="...">|
 
 
-## **The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip**
+## **3D Coordinate Estimation of Manipulator Tip Using Unscented Kalman Filtering(UKF)**
 
 |:---|--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|
