@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I was a Postdoctoral Fellow in [Dr. Shan Luo](https://shanluo.github.io/)’s Lab at the Department of Engineering, King’s College London (KCL). My research interests include **reinforcement learning**, **learning from demonstration(LfD)**, **robot manipulation planning and control**, and **robot perception**, with a specific focus on deformable objects.
+I was a Postdoctoral Fellow in [Dr. Shan Luo](https://shanluo.github.io/)’s Lab at the Department of Engineering, King’s College London (KCL). My research interests include **Deep Reinforcement Learning (DRL)**, **Learning from Demonstration(LfD)**, **Graph Neural Networks (GNNs)**, and **Robot Manipulation Planning and Control**, with a specific focus on deformable objects.
 
 During my time there, I worked on a project called ViTac: Visual-Tactile Synergy for Handling Flexible Materials, which was funded by the Engineering and Physical Sciences Research Council (EPSRC). This project aimed to develop a new Visuo-Tactile integration mechanism for handling flexible materials, such as cloth and rope. I also had the responsibility of assisting several undergraduate (UG) and postgraduate (PGT) students with their final-year projects.
 
