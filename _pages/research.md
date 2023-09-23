@@ -53,7 +53,7 @@ table {
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/aim2.png" alt="...">|The Unscented Kalman Filter (UKF) technique is used to estimate the 3D coordinate of the manipulator's tip. -->
 
 
-## **Deformable cable routing based on the integration of tactile and visual sensing**
+## **Deep Reinforcement Learning (DRL) based deformable cable routing based on the integration of tactile and visual sensing**
 
 |:---|--|
 <img align="left" width="380" style="margin-right: 10px" src="{{ site.url }}/images/ropefollow.gif" alt="..."> |
