@@ -35,8 +35,7 @@ through Robot Manipulators. In 2020 IEEE/RSJ International Conference on Intelli
 in Medium. In 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) (pp. 507-
 512).
 
-5. **Cui, Z.**, Lai, J., Chu, H. K., & Guo, Y. Human-Robot Cooperative Manipulation of Soft Objects With Feature Con-
-figuration Preserved. The 2024 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2024) (In Press)
+5. **Cui, Z.**, Lai, J., Chu, H. K., & Guo, Y. Human-Robot Cooperative Transportation of Elastic Linear Objects using Feature Points. The 2024 IEEE International Conference on Real-time Computing and Robotics (IEEE RCAR 2024) (In Press)
 
 6. Huang, K., **Cui, Z.**, Ajamieh, I. A., Lai, J., Mills, J. K., & Chu, H. K. (2020, August). Automated Singlemicroparticle Patterning System for Micro-analytics. In 2020 IEEE 16th International Conference on Automation
 Science and Engineering (CASE) (pp. 390-396).
